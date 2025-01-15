@@ -1,0 +1,30 @@
+version: 1
+project:
+  title: "Discovery of Aza-stilbene as a Scaffold for a Histamine Receptor H2 Antagonist for the Treatment of Gastroesophageal Reflux Disease"
+  description: Computational Chemistry was utilized to find that aza-stilbene, a compound that was synthesized easily, could be effective in binding to the HRH2 in the Gastric Parietal cell for treating GERD.
+  keywords:
+    - gastroesophageal reflux disease
+    - computational chemistry
+    - medicine
+    - gastroenterology
+    - drug design
+    - aza-stilbene
+  subject: Biochemistry
+  authors: 
+    - name: Nihar Kummetha
+      corresponding: true
+      orcid: 0000-0001-7354-3784
+      affiliations: Research in Chemistry, North Carolina School of Science and Mathematics
+      email: kummetha25n@ncssm.edu
+      roles: 
+        - Conceptualization
+        - Data curation
+        - Formal analysis
+        - Investigation
+        - writing
+  abbreviations:
+    GERD: gastroesophageal reflux disease
+    HRH2: Histamine receptor H2
+    FTIR: Fourier Transform Infrared Spectroscopy
+site:
+  template: article-theme

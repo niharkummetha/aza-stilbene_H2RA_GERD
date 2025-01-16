@@ -26,5 +26,7 @@ project:
     GERD: gastroesophageal reflux disease
     HRH2: Histamine receptor H2
     FTIR: Fourier Transform Infrared Spectroscopy
+    H2RAs: Histamine receptor H2 antagonists
+    H2RA: Histamine receptor H2 antagonist
 site:
   template: article-theme
